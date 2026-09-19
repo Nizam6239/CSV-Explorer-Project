@@ -6,7 +6,7 @@ import DataTable from "../components/DataTable";
 import Pagination from "../components/Pagination";
 import { btn, card } from "../utils/csvUtils";
 
-export default function Home() {
+export default function HomeStart() {
   const {
     data, setData,
     fileName,

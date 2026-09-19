@@ -1,6 +1,5 @@
-import "./styles/index.css";
-import Home from "./pages/Home";
+import HomeStart from "./pages/Home";
 
 export default function App() {
-  return <Home />;
+  return <HomeStart />;
 }

@@ -30,7 +30,7 @@ export default function Dropzone({ onText, error }) {
         <span className="hidden sm:inline">Drop a CSV file here</span>
       </p>
       <p className="mx-auto mb-5 max-w-md text-sm text-slate-500 dark:text-slate-400">
-        Commas, semicolons, tabs and pipes are detected automatically. The file stays in your browser.
+        Commas, semicolons, tabs and pipes are detected automatically. The file stays only in your browser.
       </p>
       <div className="mx-auto flex max-w-xs flex-col gap-2.5 sm:max-w-none sm:flex-row sm:justify-center">
         <button className={btnPrimary} onClick={() => inputRef.current.click()}>Choose CSV file</button>
