@@ -149,7 +149,3 @@ File / sample text
 ## Contributing
 
 Issues and pull requests are welcome. For larger changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-Add your license here (for example, MIT).
